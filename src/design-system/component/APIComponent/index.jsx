@@ -1,0 +1,2 @@
+export { defualt } from './APIComponent';
+
