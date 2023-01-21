@@ -4,7 +4,6 @@ export const OverViewWarper = styled("section")`
   label: OverViewWarper;
   padding: 3rem 0;
   background-color: #222;
- 
 `;
 
 export const OverViewContainer = styled("div")`
@@ -12,7 +11,4 @@ export const OverViewContainer = styled("div")`
   display: flex;
   align-items: center;
   justify-content: space-between;
- 
 `;
-
-

@@ -6,7 +6,7 @@ export const NavbarWarper = styled("section")`
   background-color: #090707;
   color: white;
   width: 100%;
-  z-index:2;
+  z-index: 2;
 `;
 
 export const Navcontainer = styled("div")`

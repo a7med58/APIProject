@@ -28,48 +28,47 @@ const dataSpeaker = [
     img: img2,
     alt: "Vegor Company",
   },
-   {
+  {
     id: 5,
     companyname: "EngageBay",
     nationality: "Turky",
     img: img2,
     alt: "Vegor Company",
   },
-   {
+  {
     id: 6,
     companyname: "Dynamics",
     nationality: "Turky",
     img: img2,
     alt: "Vegor Company",
   },
-   {
+  {
     id: 7,
     companyname: "Salesforce",
     nationality: "Turky",
     img: img2,
     alt: "Vegor Company",
   },
-   {
+  {
     id: 8,
     companyname: "Zoho",
     nationality: "Turky",
     img: img2,
     alt: "Vegor Company",
   },
-   {
+  {
     id: 9,
     companyname: "BIG Contacts",
     nationality: "Turky",
     img: img2,
     alt: "Vegor Company",
   },
-   {
+  {
     id: 10,
     companyname: "Pipedrive",
     nationality: "Turky",
     img: img2,
     alt: "Vegor Company",
   },
-
 ];
 export default dataSpeaker;

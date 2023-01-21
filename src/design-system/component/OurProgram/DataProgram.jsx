@@ -96,4 +96,3 @@ export const tab3 = [
     artical: "CRM Stractures",
   },
 ];
-

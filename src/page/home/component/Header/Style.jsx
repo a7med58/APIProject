@@ -52,5 +52,4 @@ export const Reg = styled("button")`
     background: red;
   }
   transition: all 0.3ms;
-
 `;

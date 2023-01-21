@@ -1,1 +1,1 @@
-export {defualt} from './Acording'
+export { defualt } from "./Acording";

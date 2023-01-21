@@ -14,43 +14,39 @@ export const FormWarper = styled("div")`
   display: flex;
   flex-direction: column;
   gap: 1rem;
-
 `;
 export const RegisterContiner = styled("div")`
   label: RegisterContiner;
   align-items: flex-start;
   display: flex;
   justify-content: space-between;
-  `;
+`;
 export const Title = styled("span")`
   label: Title;
   color: white;
   font-size: 2rem;
   padding: 0.3rem;
-
 `;
 export const ColoredTitle = styled("span")`
   label: ColoredTitle;
   color: Red;
   font-size: 2rem;
-
 `;
 export const Text = styled("p")`
   label: Text;
   color: white;
   font-size: 1rem;
-
 `;
 export const RInput = styled("input")`
   label: input;
   color: white;
   font-size: 1rem;
-  padding:0.6rem;
+  padding: 0.6rem;
   border-radius: 5px;
   border: 2px solid white;
   background-color: transparent;
-  placeholder:{
-    font-size:1rem;
+  placeholder: {
+    font-size: 1rem;
   }
 `;
 export const RegButton = styled("button")`
@@ -68,5 +64,4 @@ export const RegButton = styled("button")`
     background: red;
   }
   transition: all 0.3ms;
-
 `;

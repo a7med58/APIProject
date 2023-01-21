@@ -1,1 +1,1 @@
-export { defualt } from './APIUser';
+export { defualt } from "./APIUser";

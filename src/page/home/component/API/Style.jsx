@@ -4,18 +4,14 @@ export const APIWarper = styled("section")`
   label: APIWarper;
   padding: 3rem 0;
   background-color: whitesmoke;
- 
 `;
 
 export const APIContainer = styled("div")`
   label: APIContainer;
- 
- 
 `;
 export const OL = styled("lo")`
   label: OL;
   display: flex;
-   
 `;
 export const H4 = styled("h6")`
   label: H4;
@@ -27,7 +23,7 @@ export const H4 = styled("h6")`
   border-radius: 5px;
   border: 2px solid brown;
   background-color: transparent;
-  placeholder:{
-    font-size:1rem;
+  placeholder: {
+    font-size: 1rem;
   }
 `;

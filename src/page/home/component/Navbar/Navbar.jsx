@@ -8,7 +8,7 @@ export default function Navbar() {
         <Navcontainer>
           <Navtitle>The Eagle </Navtitle>
           <LinksWarper>
-             <NavItems />  
+            <NavItems />
           </LinksWarper>
         </Navcontainer>
       </div>

@@ -1,1 +1,1 @@
-export {default} from "./CreativeSpeakersComponent"
+export { default } from "./CreativeSpeakersComponent";
